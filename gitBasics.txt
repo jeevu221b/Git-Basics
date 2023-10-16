@@ -1,0 +1,9 @@
+1. Removing file(rm command)
+--> To delete a file:
+        git rm file_name
+--> To just undo a file from staging to untracked:
+        git rm --cached file_name
+
+2. Branches
+--> To create branch:
+    git branch branc_name
